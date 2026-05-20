@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Biel, a 20y/o Computer Engineering and Business Administration undergraduate. I love learning and constantly improving. Right now, I'm especially interested in DeFi and EVM-based projects.
+👋 Hi! I'm Biel, a 20y/o Computer Engineering and Business Administration undergraduate. I love learning and constantly improving.
 
 When I'm not coding or diving into something new, you'll probably find me out running, looking at charts and stats, or behind the wheel in a racing sim.
 
